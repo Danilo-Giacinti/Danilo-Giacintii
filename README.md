@@ -1,56 +1,38 @@
-## Hi, I'm Danilo <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+# Danilo Giacinti
 
-🚀 I'm **Danilo Giacinti** - a Full Stack Web & Application Developer from **Pretoria, South Africa**.  
-I specialize in building modern, fast, and scalable digital experiences using tools like **Laravel**, **TailwindCSS**, **Vite**, **React** and **Docker**.
+**Full Stack Engineer · PHP / Laravel**
 
----
+I build and run production e-commerce platforms end to end, as the sole engineer. My specialty is modernizing legacy codebases against live, revenue-carrying systems: layering modern Laravel over WordPress/WooCommerce back ends without downtime.
 
-## 🔗 Live Portfolio
+![PHP](https://img.shields.io/badge/PHP_8.2-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+![WordPress](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
 
-🌍 **[danilodev.dev](https://danilodev.dev)** — Explore my full portfolio website
+## Live production work
 
----
+My day-to-day code lives in private client repositories — the results are public:
 
-## 💼 What I’m Doing
+| Platform | What it is | My role |
+|---|---|---|
+| [stargas.co.za](https://stargas.co.za) | Gas-supply e-commerce — headless Laravel 12 over WooCommerce, dual payment gateways, ~200 ms responses | Sole developer: architecture → deploy |
+| [alfaovens.co.za](https://alfaovens.co.za) | Pizza-oven storefront — custom Laravel frontend over WooCommerce | Sole developer |
+| [futuresecured.co.za](https://futuresecured.co.za) | Precious-metals e-commerce — live revamp of an existing WooCommerce platform | Developer: redesign + fixes |
+| [brooksgym.co.za](https://brooksgym.co.za) | Gym website — Laravel, MySQL, Bootstrap, WordPress integration | Sole developer: design → launch |
 
-- 🔨 Building a full-featured **Auctioning Platform** for Sheriff sales (Laravel)
-- 🧠 Improving my **UI/UX**, **DevOps**, and **SEO** skills daily
-- 🧩 Developing reusable **Laravel Blade components** and scalable modules
+## How I work
 
----
+- **Legacy-safe:** characterization tests before refactoring untested code; zero-regression changes on live stores
+- **Integration-heavy:** payment gateways with webhook anti-forgery verification, shipping and email APIs, Meta and Google APIs, SAML 2.0 SSO (onelogin/php-saml)
+- **Constraint-driven DevOps:** Docker for dev, DigitalOcean via Laravel Forge, and a custom Python + cPanel-API deploy pipeline for hosts without SSH
+- **Client-facing:** I scope with non-technical stakeholders, train them on their systems, and write the docs
 
-## 🛠 My Tech Stack
+## Contact
 
-**Languages:**  
-PHP • JavaScript • HTML • CSS • SQL • Python
-
-**Frameworks & Libraries:**  
-Laravel • Symfony • React.js • Vue.js • Bootstrap
-
-**Tools & Platforms:**  
-Docker • TailwindCSS • Vite • Git • Laravel Forge • MySQL • Webpack
-
-**Skills:**  
-REST APIs • UI/UX Design • SEO Integration • Performance Optimization • Deployment
-
----
-
-## 📂 Highlight Projects
-
-### 🔹 Brooks Gym Laravel Website  
-> A responsive fitness site built with Laravel 12, Tailwind CSS, Alpine.js, and WordPress for SEO blogging.
-
-### 🔹 Sheriff Auctioning Platform  
-> Laravel-based admin dashboard for managing auctions, invoices, and user roles — with PDF generation and upload support.
-
----
-
-## 📬 Contact Me
-
-📧 [danilo@modatechs.com](mailto:danilo@modatechs.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/danilo-giacinti-30a221345/)
-
----
-
-> 👨‍💻 AI-accelerated learner. Passion-driven. Detail-obsessed. Let's build something great — together.  
-> Visit [danilodev.dev](https://danilodev.dev) for the full story.
+📧 [danilo@modatechs.com](mailto:danilo@modatechs.com) · 💼 [LinkedIn](https://www.linkedin.com/in/danilo-giacinti-30a221345/)
